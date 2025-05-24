@@ -1,4 +1,4 @@
-**Gauss Games - A new flexible TTRPG System**
+# Gauss Games - A new flexible TTRPG System**
 
 Are you ready to shape something new and different? We’re creating a brand-new tabletop RPG system designed to explore a
 sweet spot between the Gamer, Simulationist and Narrativist positions with a modern storytelling vibe, blending elements of **OSR** and narrative play styles.
